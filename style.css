@@ -1,0 +1,184 @@
+@font-face {
+    font-family: "Blade Runner Movie Font";
+    src: local("Blade Runner Movie Font"), url("fonts/BLADRMF_.TTF") format("truetype");
+    font-weight: 400;
+    font-display: swap;
+}
+
+/* html {
+    scroll-behavior: smooth;
+} */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: serif, sans-serif;
+    background: linear-gradient(to bottom right, #0062ff, rgb(255, 255, 255))
+}
+
+header {
+    text-align: center;
+    background: black;
+}
+
+header a {
+    text-decoration: none;
+}
+
+header img {
+    display: block;
+}
+
+h1 {
+    font-family: "Blade Runner Movie Font";
+    font-size: 500%;
+    color: #c72b38;
+    margin-bottom: 0;
+    display: inline-block;
+    border: double 15px white;
+    padding: 25px;
+    box-shadow: 0px 0px 33px;
+}
+
+h1:hover {
+    box-shadow: 0px 0px 66px;
+    transition: all 150ms ease-in-out;
+}
+
+h2 {
+    color: white;
+    margin-top: 30px;
+}
+
+hr {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(55, 54, 54);
+    margin-bottom: 0;
+}
+
+h3 {
+    margin-top: 0;
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+}
+
+table {
+    margin: auto;
+    margin-top: 30px;
+    padding: 10px;
+    border-collapse: separate;
+    border-spacing: 10px;
+    border: 20px black double;
+    background: white;
+}
+
+thead {
+    font-size: 200%;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+th {
+    font-size: 150%;
+    padding: 5px;
+}
+
+td {
+    font-size: 120%;
+}
+
+caption {
+    caption-side: bottom;
+    margin: 20px 0 35px 0;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+footer {
+    background: black;
+    color: white;
+    display: flex;
+    padding: 5px;
+    justify-content: space-evenly;
+    text-align: justify;
+    line-height: 1.3;
+}
+
+.no_bg {
+    background: black;
+}
+  
+.section {
+    position: sticky;
+    top: 0;
+}
+
+.movie_title {
+    padding-top: 25px;
+}
+
+.section_separation {
+    padding-bottom: 75px;
+    text-align: center;
+}
+
+.informations {
+    padding-top: 15px;
+    padding-left: 156px;
+    line-height: 1.2;
+}
+
+.plot_text {
+    margin: 0.5em;
+}
+
+.about {
+    width: 50%;
+}
+
+.about a {
+    color: inherit;
+    text-decoration: none;
+    background-color: rgba(125, 125, 125, 0.3);
+}
+
+.about a:hover {
+    text-decoration: underline;
+}
+
+.xylo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.social {
+    margin-top: 5px;
+    margin-left: 12px
+}
+
+.social a {
+    text-decoration: none;
+    margin: 0 5px;
+    opacity: 0.6;
+}
+
+.social a:hover {
+    opacity: 1;
+}
+
+.over:hover {
+    box-shadow: 0 0 75px black;
+    transition: all 150ms ease-in-out;
+}
+
+:any-link {
+    cursor: pointer;
+}
+
+/* visibility: hidden; */
