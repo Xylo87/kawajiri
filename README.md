@@ -56,6 +56,12 @@ Utilisation d'un effet d'agrandissement pour rendre l'élément dynamique
 ```
 ---
 
-## 4. Auteur
+## 4. Améliorations possibles
+Changement de la structure **HTML** en `table` du contenu principal pour l'utilisation de **Flexbox**.
+L'application gagnerait ainsi en fluidité pour ce qui concerne le **Responsive Design**.
+
+---
+
+## 5. Auteur
 Projet réalisé par Théo Arbogast (aka Xylo87).
 N'hésitez pas à ouvrir une issue ou à me contacter pour toute suggestion ou question.
