@@ -14,6 +14,7 @@ Pour plus d'informations sur le travail de Yoshiaki Kawajiri, consulter la [page
 Des paramètres de **CSS** avancé sont utilisés pour rendre les éléments cliquables dynamiques au survol de la souris de l'utilisateur :
 
 - *Titre*
+  
 Utilisation de `@font-face`pour un chargement de la police depuis un serveur distant (**URL**).
 Utilisation d'un `box-shadow` pour donner un effet "néon" fluide à la titraille, amplifié au passage de la souris
 
@@ -30,6 +31,7 @@ h1:hover {
 ```
 
 - *Images de présentation des oeuvres*
+  
 Utilisation d'un effet d'agrandissement pour rendre l'élément dynamique
 
 ```
