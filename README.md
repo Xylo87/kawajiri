@@ -1,5 +1,5 @@
 
-# ⚡🥷 Application dédiée à l'un des maîtres de l'animation japonaise : Yoshiaki Kawajiri
+# ⚡🥷 Application dédiée à l'un des maîtres de l'animation japonaise : Yoshiaki Kawajiri (HTML/CSS)
 
 ## 1. Description
 Cette application est un projet personnel en **HTML/CSS**.
