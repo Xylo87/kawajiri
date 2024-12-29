@@ -6,6 +6,7 @@ Cette application est un projet personnel en **HTML/CSS**.
 Il s'agit d'une mise en lumière non exhaustive des oeuvres majeures du réalisateur de films d'animation japonais Yoshiaki Kawajiri.
 La Home Page catégorise les oeuvres présentées : films principaux, OAV (films distribués uniquement en vidéo), anthologies (ensemble de courts-métrages de plusieurs réalisateurs), séries TV et contenu additionnel (documentaire, interview).
 Chaque oeuvre dispose d'une page dédiée, livrant de détails en présentant notamment un trailer vidéo et une affiche d'origine.
+Pour plus d'informations sur le travail de Yoshiaki Kawajiri, consulter la [page Wikipedia](https://fr.wikipedia.org/wiki/Yoshiaki_Kawajiri) dédiée au réalisateur.
 
 ---
 
